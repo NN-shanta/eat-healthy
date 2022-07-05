@@ -9,7 +9,8 @@ section {
 .food-network {
   background-image: url(images/7.png);
   background-repeat: no-repeat;
-  background-position: 70%;
+  background-position: center;
+  padding-top: 70px;
 }
 span {
   color: #f7a530;
