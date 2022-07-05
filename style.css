@@ -1,0 +1,80 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+section {
+  display: flex;
+  margin-bottom: 100px;
+}
+.food-network {
+  background-image: url(images/7.png);
+  background-repeat: no-repeat;
+  background-position: 70%;
+}
+span {
+  color: #f7a530;
+  font-size: 60px;
+}
+.half-part {
+  width: 50%;
+  padding-left: 60px;
+  padding-right: 110px;
+}
+.half-part img {
+  width: 100%;
+}
+.second-part {
+  width: 50%;
+  padding-left: 60px;
+  padding-right: 110px;
+}
+.second-part img {
+  width: 60%;
+  height: 100%;
+}
+.recipe-part1 {
+  width: 50%;
+  padding-left: 80px;
+  padding-right: 40px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 100px;
+  border-radius: 50px;
+  box-shadow: 5px 5px 30px gray;
+}
+.recipe-part1 img {
+  width: 100%;
+}
+.recipe-part2 {
+  width: 50%;
+  padding-left: 40px;
+  padding-right: 80px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-right: 100px;
+  border-radius: 50px;
+  box-shadow: 5px 5px 20px gray;
+}
+.recipe-part2 img {
+  width: 100%;
+}
+
+.button {
+  text-decoration: none;
+  font-weight: 900;
+  padding: 10px 20px;
+  border-radius: 20px;
+  color: #ffffff;
+  background-image: linear-gradient(#f3906c, #f1694c);
+}
+h1 {
+  font-size: 50px;
+}
+h3 {
+  font-size: 30px;
+}
+.recipe {
+  text-align: center;
+  padding-left: 30%;
+  padding-right: 30%;
+}
