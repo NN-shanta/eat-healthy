@@ -13,7 +13,6 @@ section {
 }
 span {
   color: #f7a530;
-  font-size: 60px;
 }
 .half-part {
   width: 50%;
@@ -37,7 +36,7 @@ span {
   padding: 20px;
   margin-left: 70px;
   border-radius: 50px;
-  box-shadow: 5px 5px 30px #D5D5D5;
+  box-shadow: 5px 5px 30px #d5d5d5;
 }
 .recipe-part1 img {
   width: 100%;
@@ -47,7 +46,7 @@ span {
   padding: 20px;
   margin-right: 70px;
   border-radius: 50px;
-  box-shadow: 5px 5px 20px #D5D5D5;
+  box-shadow: 5px 5px 20px #d5d5d5;
 }
 .recipe-part2 img {
   width: 100%;
@@ -72,15 +71,26 @@ h3 {
   padding-left: 30%;
   padding-right: 30%;
 }
-.social-media{
-  box-shadow: 1px 1px 30px #D5D5D5;
+.social-media {
+  box-shadow: 1px 1px 30px #d5d5d5;
   margin-right: 80px;
   margin-left: 80px;
   padding: 40px 40px;
 }
-.follower{
+.follower {
   width: 100%;
   padding-left: 50px;
   padding-right: 50px;
   text-align: center;
+}
+.footer {
+  background-color: rgb(4, 4, 37);
+  padding: 50px;
+  text-align: center;
+}
+.footer p {
+  color: white;
+}
+.footer h3 {
+  color: gray;
 }
